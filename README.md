@@ -67,6 +67,7 @@ Build a deep learning model using the Food-101 dataset to:
 ✍️ Author
 
 Kashish Tomar 
+
 Intern at Prodigy Infotech – July 2025  
 GitHub: [@kashishtomar-11](https://github.com/kashishtomar-11)
 
