@@ -56,7 +56,7 @@ Build a deep learning model using the Food-101 dataset to:
 
  Sample Output
 
-![Sample Prediction] https://github.com/kashishtomar-11/PRODIGY_ML_05/blob/main/sample_output.png
+![Sample Output](sample_output.png)
 
 📂 Files Included
 
