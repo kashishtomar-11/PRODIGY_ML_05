@@ -1,4 +1,6 @@
-🍽️ Prodigy ML Task 05 - Food Recognition & Calorie Estimation
+PRODIGY_ML_05
+
+🍽️ Task 05 - Food Recognition & Calorie Estimation
 
 This task is part of my internship at Prodigy Infotech under the Machine Learning Domain.
 
